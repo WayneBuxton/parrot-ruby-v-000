@@ -11,4 +11,3 @@ end
 def parrot(*p)
   puts phrase
 end
-
