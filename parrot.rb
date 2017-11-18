@@ -1,5 +1,6 @@
 def parrot(*p)
-  puts "#{*p}!"
+  phrase = "Squawk!"
+  puts phrase
 end
 
 
