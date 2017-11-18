@@ -8,6 +8,7 @@ end
 #  puts "#{phrase}!"
 #end
 
-def parrot(phrase)
+def parrot(*p)
   puts phrase
 end
+
