@@ -5,5 +5,3 @@ end
 def parrot
   puts phrase
 end
-
-
