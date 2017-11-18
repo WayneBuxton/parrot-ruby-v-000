@@ -8,6 +8,3 @@ def parrot(phrase = "Squawk!")
   "Squawk!"
 end
 
-def parrot
-  "Pretty bird!"
-end
