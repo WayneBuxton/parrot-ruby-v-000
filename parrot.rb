@@ -1,4 +1,4 @@
-def parrot
+def parrot(*p)
   puts "Squawk!"
 end
 
@@ -8,6 +8,3 @@ end
 #  puts "#{phrase}!"
 #end
 
-def parrot(*p)
-  puts phrase
-end
